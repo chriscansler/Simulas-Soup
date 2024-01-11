@@ -44,7 +44,7 @@ void DisplaySoup((Seasoning seasoning, Ingredients ingredient, Recipes recipe) s
 	Console.WriteLine($"{soup.seasoning} {soup.ingredient} {soup.recipe}");
 }
 
-// Enumerations
+// Enumerations for all of Simula's soup combinations
 enum Recipes { Soup = 1, Stew, Gumbo };
 enum Ingredients { Mushrooms = 1, Chicken, Carrots, Potatoes };
 enum Seasoning { Spicy = 1, Salty, Sweet };
