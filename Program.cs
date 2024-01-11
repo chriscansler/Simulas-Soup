@@ -45,6 +45,10 @@ void DisplaySoup((Seasoning seasoning, Ingredients ingredient, Recipes recipe) s
 }
 
 // Enumerations for all of Simula's soup combinations
+// Enumerations for all of Simula's soup combinations
+// Enumerations for all of Simula's soup combinations
+// Enumerations for all of Simula's soup combinations
+// Enumerations for all of Simula's soup combinations
 enum Recipes { Soup = 1, Stew, Gumbo };
 enum Ingredients { Mushrooms = 1, Chicken, Carrots, Potatoes };
 enum Seasoning { Spicy = 1, Salty, Sweet };
