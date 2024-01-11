@@ -1,7 +1,7 @@
 ﻿(Seasoning, Ingredients, Recipes) mySoup = GetMySoup();
 DisplaySoup(mySoup);
 
-// Local Functions (of the implicit Main());
+// Local Functions (of the implicit Main() method);
 (Seasoning, Ingredients, Recipes) GetMySoup() {
 	Recipes recipe = GetRecipe();
 	Ingredients ingredient = GetIngredient();
