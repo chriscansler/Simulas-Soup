@@ -40,6 +40,12 @@ Seasoning GetSeasoning() {
 	};
 }
 
+void TestMethod() {}
+
+void TestMethod2() {}
+
+void TestMethod3() {}
+
 void DisplaySoup((Seasoning seasoning, Ingredients ingredient, Recipes recipe) soup) {
 	Console.WriteLine($"{soup.seasoning} {soup.ingredient} {soup.recipe}");
 }
